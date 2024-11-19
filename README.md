@@ -33,3 +33,5 @@
 - ✂️ KISS (Keep It Simple, Stupid)
 - 🔄 DRY (Don't Repeat Yourself)
 - ❌ YAGNI (You Aren't Gonna Need It)
+
+[![](https://visitcount.itsvg.in/api?id=jmbtolentino&icon=0&color=0)](https://visitcount.itsvg.in)
